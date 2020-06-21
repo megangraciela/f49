@@ -87,7 +87,7 @@ body {
   .product-wrapper {
     background-color:white;
     text-align: center;
-    height: 900px;
+    margin-bottom: 50px;
   }
   
   .product {
